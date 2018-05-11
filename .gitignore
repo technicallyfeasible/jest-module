@@ -1,0 +1,9 @@
+/.idea
+/node_modules
+xunit.xml
+*.tar*
+.DS_Store
+*.log
+*.codekit
+*.iml
+*.desc
